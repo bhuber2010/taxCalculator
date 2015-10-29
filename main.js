@@ -1,4 +1,6 @@
 module.exports = {
+
+
   taxCalculator: function(amount) {
       var a = amount;
 
